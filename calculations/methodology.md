@@ -144,10 +144,22 @@ approximately 57–59 inches horizontal, 7–9 inches vertical on the enlarged p
 If the three formations plus the Sphinx-analog object fall cleanly onto their Giza
 counterparts, the geometric parallel is confirmed.
 
-**On overhead imagery:** NASA catalog confirms Twin Peaks were **identified in Viking
-Orbiter images taken prior to 1997** (Viking mission 1976–1980). Overhead imagery
-exists in the Viking dataset. MRO HiRISE public data also available:
-https://www.uahirise.org — Pathfinder landing site: 19.13°N, 326.83°E.
+**North Knob:** NASA officially names the third feature **"North Knob"** —
+described in HiRISE/JPL documentation as "a bright mound upper right of Twin Peaks,
+visible on Pathfinder's horizon." This directly corresponds to the plateau visible to
+the right of North Twin Peak in the IMP panoramas (Eric's measurements, 2024).
+
+**Overhead imagery confirmed:**
+- NASA Viking Orbiter images (pre-1997) identified Twin Peaks from orbit
+- HiRISE/MRO image **PSP_001890_1995** covers the full landing site at **25 cm/pixel**
+  (objects ~85 cm across resolvable). All three formations visible: Twin Peaks + North Knob.
+  https://www.uahirise.org/PSP_001890_1995
+- JPL catalog: PIA09105 — "Mars Pathfinder Landing Site and Surroundings"
+  https://science.nasa.gov/photojournal/mars-pathfinder-landing-site-and-surroundings
+
+**The test is now executable:** Overlay scaled Giza layout onto HiRISE PSP_001890_1995.
+North Twin + South Twin + North Knob should fall on three Giza pyramid positions.
+The Sphinx-analog object should appear between the lander and the formation cluster.
 
 ---
 
